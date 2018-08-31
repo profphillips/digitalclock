@@ -16,7 +16,7 @@ import javafx.stage.Stage;
  * Simple digital clock mostly from Internet code I found in a reply at
  * https://stackoverflow.com/questions/13227809/displaying-changing-values-in-javafx-label
  *
- * John Phillips on 4/25/2018
+ * John Phillips on 4/25/2018 ...
  */
 public class DigitalClockJP3 extends Application {
 
